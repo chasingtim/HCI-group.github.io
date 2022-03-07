@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Our HCI Idea
 
 You can use the [editor on GitHub](https://github.com/chasingtim/HCI-group.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
