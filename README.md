@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/chasingtim/HCI-group.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 网站说明
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这个网站用来记录我们小组对HCI idea的生成和完善过程。
 
 ```markdown
 Syntax highlighted code block
